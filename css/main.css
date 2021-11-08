@@ -2996,7 +2996,9 @@ padding:10px;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s
+    transition: all 0.3s ease 0s;
+	border-top-right-radius: 0.5rem;
+	border-top-left-radius: 0.5rem;
 }
 
 .single-blog:hover img {

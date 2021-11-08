@@ -567,6 +567,9 @@ th {
 .p-10-40 {
     padding:10px 40px
 }
+.h-300{
+	height:300px;
+}
 .float-right {
     float: right
 }

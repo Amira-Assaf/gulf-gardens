@@ -117,7 +117,7 @@ h6 {
     line-height: 1.2em !important;
     margin-bottom: 0;
     margin-top: 0;
-    font-weight: 600
+    font-weight: 500
 }
 
 .h1,
@@ -4196,28 +4196,34 @@ dl.toggle.time-line:before {
 }
 
 .blog-pagination .page-item {
-    border: none
+    border: none;
+	margin:0 5px;
 }
 
 .page-link {
     background: transparent;
-    font-weight: 400
+    font-weight: 400;
 }
 
 .blog-pagination .page-item.active .page-link {
     background-color: #2bbD61;
     border-color: transparent;
-    color: #fff
+    color: #fff;
+	box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.5);
 }
-
+.blog-pagination .p-no {
+	box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.5);
+    border-radius: .5rem;
+}
 .blog-pagination .page-link {
     position: relative;
     display: block;
-    padding: 0.5rem 0.75rem;
+    padding: 0.8rem 0.95rem;
     margin-right: -1px;
     line-height: 1.25;
     color: #777;
-    border: none
+    border: none;
+	border-radius:.3rem;
 }
 
 .blog-pagination .page-link .lnr {

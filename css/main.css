@@ -128,7 +128,7 @@ h4,
 h5,
 h6 {
     font-family: segoe ui;
-    color: #222;
+    /*color: #222;*/
     line-height: 1.2em !important;
     margin-bottom: 0;
     margin-top: 0;
@@ -3060,7 +3060,7 @@ padding:10px;
 }
 .single-blog .text-box p{
 	font-size:18px;
-	color:#575757;
+	color:#575757cc;
 }
 
 .single-blog .meta {
@@ -4515,6 +4515,9 @@ dl.toggle.time-line:before {
 .widget-wrap .post-category-widget .cat-list li a {
     color: #777
 }
+.post-category-widget .cat-list li a h4 {
+    color: #2bbD61;
+}
 .cat-list li a h4:hover{
 	color:#2bbD61;
 	text-decoration:underline;
@@ -5266,7 +5269,11 @@ color: #2bbD61 !important;
 .img-gallery{
 	height:200px;
 }
-
+.tab-content h5{
+	padding-top:10px;
+	font-size:18px;
+	line-height:1.5 !important;
+}
 
 /*//overlay with text*/
 
@@ -5503,7 +5510,7 @@ color: #2bbD61 !important;
 	text-decoration:underline;
 }
 .filters-content .item .cat{
-	font-size:15px;
+	font-size:16px;
 }
 .portfolio h3{
 	font-size: 25px;

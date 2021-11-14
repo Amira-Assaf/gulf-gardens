@@ -6,6 +6,10 @@
   font-family: AmiriBold;
   src: url(../fonts/Amiri-Bold.ttf);
 }
+@font-face {
+  font-family: segoe ui;
+  src: url(../fonts/Segoe-UI.ttf);
+}
 .ff-1{
 	font-family:Tahoma;
 }
@@ -48,7 +52,7 @@
 
 body {
     color: #777;
-    font-family: Amiri;
+    font-family: segoe ui;
     font-size: 14px;
     font-weight: 300;
     line-height: 1.625em;
@@ -123,7 +127,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Amiri;
+    font-family: segoe ui;
     color: #222;
     line-height: 1.2em !important;
     margin-bottom: 0;
@@ -139,7 +143,7 @@ h6 {
 .h6 {
     margin-bottom: 0;
     margin-top: 0;
-    font-family: Amiri;
+    font-family: segoe ui;
     font-weight: 600;
     color: #222
 }
@@ -2809,7 +2813,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .search-course-area .search-course-left h5{
     font-size:20px;
-	font-family:AmiriBold;
+	font-family:segoe ui;
 }
 .search-course-area .search-course-left .form-wrap {
     padding: 0px 40px
@@ -4001,7 +4005,7 @@ dl.toggle.time-line:before {
 }
 .gallery-area .search-course-left h5 {
     font-size: 20px;
-    font-family: AmiriBold;
+    font-family: segoe ui;
 }
 .gallery-area .single-imgs {
     margin-bottom: 30px
@@ -4084,7 +4088,7 @@ dl.toggle.time-line:before {
 }
 .blog-area .blog-header h5 {
     font-size: 20px;
-    font-family: AmiriBold;
+    font-family: segoe ui;
 }
 .top-category-widget-area {
     background-color: #f9f9ff
@@ -5249,11 +5253,11 @@ color: #2bbD61 !important;
 }
 .our-service .content2 h5{
 	font-size:21px;
-	font-family:Amiri;
+	font-family:segoe ui;
 }
 .our-service .content2 .sub-title{
 	font-size:16px;
-	font-family:Amiri;
+	font-family:segoe ui;
 	color:#777777;
 }
 .content-overlay2 .thumb img{
@@ -5377,7 +5381,7 @@ color: #2bbD61 !important;
   font-weight: 500;
   margin-bottom: 0.5em;
   text-transform: uppercase;
-  font-family:AmiriBold;
+  font-family:segoe ui;
   text-align:center;
   font-size:24px;
 }
@@ -5386,7 +5390,7 @@ color: #2bbD61 !important;
   color: #fff;
   font-size: 0.8em;
   font-size:16px;
-  font-family:Amiri;
+  font-family:segoe ui;
 }
 
 .fadeIn-bottom{

@@ -170,7 +170,7 @@ h4,
 
 h5,
 .h5 {
-    font-size: 16px
+    font-size: 18px;
 }
 
 h6,
@@ -923,7 +923,7 @@ h2 {
 }
 
 h3 {
-    font-size: 24px
+    font-size: 25px
 }
 
 h4 {
@@ -931,7 +931,7 @@ h4 {
 }
 
 h5 {
-    font-size: 16px
+    font-size: 18px
 }
 
 h6 {
@@ -2912,7 +2912,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .single-carusel h4 {
     margin-top: 20px;
-    margin-bottom: 20px
+    margin-bottom: 10px;
+	font-size:25px;
 }
 
 .single-carusel p {
@@ -3223,7 +3224,7 @@ padding:10px;
     font-size:25px;
 }
 .info-area .info-area-left h4 {
-    font-size:28px;
+    font-size:25px;
 }
 .info-area .info-area-left {
     padding-right: 40px
@@ -4445,7 +4446,7 @@ dl.toggle.time-line:before {
 }
 .popular-post-list h6 {
 	padding-bottom:5px;
-	font-size:18px;
+	font-size:25px;
 }
 .popular-post-list h6:hover {
 	color:#2bbD61;
@@ -4453,7 +4454,7 @@ dl.toggle.time-line:before {
 }
 .popular-post-list p {
 	padding-top:5px;
-	font-size:16px;
+	font-size:18px;
 	color:#575757;
 }
 .widget-wrap .popular-post-widget .single-post-list {
@@ -4517,6 +4518,7 @@ dl.toggle.time-line:before {
 }
 .post-category-widget .cat-list li a h4 {
     color: #2bbD61;
+	font-size:25px;
 }
 .cat-list li a h4:hover{
 	color:#2bbD61;
@@ -5053,12 +5055,13 @@ dl.toggle.time-line:before {
 
 .single-footer-widget h4 {
     color: #fff;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
     font-weight: 500;
-	font-size:21px;
+	font-size:25px;
 }
 .single-footer-widget p {
-	font-size:16px;
+	font-size:18px;
+	color:rgba(255,255,255,.8) !important;
 }
 .single-footer-widget i{
 	font-size:25px;
@@ -5066,8 +5069,8 @@ dl.toggle.time-line:before {
 	 color: #fff;
 }
 .single-footer-widget span{
-	font-size:16px;
-	color: #fff;
+	font-size:18px;
+	color:rgba(255,255,255,.8);
 }
 .single-footer-widget .form-control {
     border: none;
@@ -5096,12 +5099,12 @@ dl.toggle.time-line:before {
 }
 
 .single-footer-widget ul li a {
-    color: #fff;
+    color:rgba(255,255,255,.8);
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
-	font-size:16px;
+	font-size:18px;
 }
 
 .single-footer-widget ul li a:hover {
@@ -5503,14 +5506,14 @@ color: #2bbD61 !important;
 	margin:10px 0;
 }
 .filters-content .item h5 a{
-	font-size:19px;
+	font-size:25px;
 	color: #2bbD61;
 }
 .filters-content .item h5 a:hover{
 	text-decoration:underline;
 }
 .filters-content .item .cat{
-	font-size:16px;
+	font-size:18px;
 }
 .portfolio h3{
 	font-size: 25px;

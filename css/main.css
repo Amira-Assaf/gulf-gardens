@@ -253,6 +253,9 @@ th {
 .fsi {
     font-style: italic
 }
+.br-5{
+	border-radius:.5rem;
+}
 
 .mt-10 {
     margin-top: 10px
@@ -3885,9 +3888,12 @@ dl.toggle.time-line:before {
 	height:180px;
 }
 .event-details-area .details-content h4 {
-    margin: 20px 0px
+    margin: 20px 0px;
+	font-size:25px;
 }
-
+.blog-area .details-content h5{
+	line-height:1.6 !important;
+}
 .event-details-area .social-nav {
     padding-top: 50px
 }
@@ -4438,7 +4444,7 @@ dl.toggle.time-line:before {
     width: 100%;
 }
 .popular-post-list .thumb img {
-    width: 100%;
+    width: 120px;
 	padding:10px;
 }
 .popular-post-list .thumb img:hover {
@@ -5360,7 +5366,11 @@ color: #2bbD61 !important;
   width: 100%;
   border-radius:.5rem;
 }
-
+.f-img{
+  width: 100%;
+  border-radius:.5rem;
+  height:170px;
+}
 .content-details {
   position: absolute;
   text-align: right;

@@ -3571,7 +3571,7 @@ dl.toggle.time-line:before {
 }
 
 .video-left {
-    background: url(../img/4.jpeg) no-repeat center;
+    /*background: url(../img/4.jpeg) no-repeat center;*/
     background-size: cover;
     height: 195px;
 	border-radius:.3rem;

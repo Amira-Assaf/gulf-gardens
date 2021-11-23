@@ -1722,7 +1722,7 @@ h6 {
 }
 
 .primary-checkbox input:checked+label {
-    background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+    background: url(../imgs/elements/primary-check.webp) no-repeat center center/cover;
     border: none
 }
 
@@ -1760,7 +1760,7 @@ h6 {
 }
 
 .confirm-checkbox input:checked+label {
-    background: url(../img/elements/success-check.png) no-repeat center center/cover;
+    background: url(../imgs/elements/success-check.webp) no-repeat center center/cover;
     border: none
 }
 
@@ -1803,7 +1803,7 @@ h6 {
 }
 
 .disabled-checkbox input:checked+label {
-    background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+    background: url(../imgs/elements/disabled-check.webp) no-repeat center center/cover;
     border: none
 }
 
@@ -1841,7 +1841,7 @@ h6 {
 }
 
 .primary-radio input:checked+label {
-    background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+    background: url(../imgs/elements/primary-radio.webp) no-repeat center center/cover;
     border: none
 }
 
@@ -1879,7 +1879,7 @@ h6 {
 }
 
 .confirm-radio input:checked+label {
-    background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+    background: url(../imgs/elements/success-radio.webp) no-repeat center center/cover;
     border: none
 }
 
@@ -1922,7 +1922,7 @@ h6 {
 }
 
 .disabled-radio input:checked+label {
-    background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+    background: url(../imgs/elements/disabled-radio.webp) no-repeat center center/cover;
     border: none
 }
 
@@ -2521,7 +2521,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-    background: url(../img/banner-bg.jpg) left;
+    background: url(../imgs/banner-bg.webp) left;
     background-size: cover
 }
 
@@ -2767,16 +2767,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .search-course-area {
-    background: url(../img/s-bg.jpg) center;
+    background: url(../imgs/s-bg.webp) center;
     background-size: cover
 }
 .bg-1{
-	background: url(../img/counter.png) center;
+	background: url(../imgs/counter.webp) center;
     background-size: cover
 }
 
 .bg-2 {
-	background: url(../img/bg-2.png) center;
+	background: url(../imgs/bg-2.webp) center;
 	background-size: cover;
 	padding:90px 0;
 }
@@ -2784,7 +2784,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	font-size:45px;
 }
 .bg-3{
-	background: url(../img/bg-3.png) center;
+	background: url(../imgs/bg-3.webp) center;
     background-size: cover
 }
 .bg-gray{
@@ -3152,7 +3152,7 @@ padding:10px;
 }
 
 .cta-one-area {
-    background: url(../img/cta-bg.jpg) center;
+    background: url(../imgs/cta-bg.webp) center;
     background-size: cover;
     text-align: center;
     color: #fff
@@ -3211,7 +3211,7 @@ padding:10px;
 }
 
 .about-banner {
-    background: url(../img/top-banner.jpg) left no-repeat;
+    background: url(../imgs/top-banner.webp) left no-repeat;
     background-size: cover
 }
 
@@ -3571,7 +3571,7 @@ dl.toggle.time-line:before {
 }
 
 .video-left {
-    /*background: url(../img/4.jpeg) no-repeat center;*/
+    /*background: url(../imgs/4.webp) no-repeat center;*/
     background-size: cover;
     height: 195px;
 	border-radius:.3rem;
@@ -4066,7 +4066,7 @@ dl.toggle.time-line:before {
 }
 
 .blog-home-banner {
-    background: url(../img/blog/blog-home-banner.jpg) bottom;
+    background: url(../imgs/blog/blog-home-banner.webp) bottom;
     background-size: cover;
     padding: 130px 0px
 }
